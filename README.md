@@ -23,8 +23,8 @@ The datasets were then uploaded to RStudio for further analysis. A full descript
 In this phase, queries were created to uncover trends that were highlighted in the data visualizations created in Tableau.
 
 5. Share Phase
-Visualizations were created using Tableau. Published here https://public.tableau.com/views/google_cyclistic_divvy_bikes/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link and included in the powerpoint presentation.
+Visualizations were created using Tableau. Published here https://public.tableau.com/views/GoogleDataAnalyticsProfessionalCertificateCapstoneProjectCyclisticDivvyBikes/Sheet5_1?:language=en-US&:display_count=n&:origin=viz_share_link and included in the powerpoint presentation.
 
 6. Act Phase
-A powerpoint presentation was compiled - Cyclistic - Annual Members differ Casual Riders.pptx.
+A powerpoint presentation was compiled Cyclistic - Annual Members vs Casual Riders.pptx.
 Google Analytics Capstone Project using Cyclistic (Divvy) bike data
