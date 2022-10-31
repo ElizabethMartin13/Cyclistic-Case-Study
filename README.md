@@ -8,13 +8,13 @@ This Case Study was completed by Elizabeth Martin as part of the Google Data Ana
 How do annual members and casual riders use Cyclistic Bikes differently? 
 How can Cyclistic Bikes market towards casual riders to become annual members?  
 
-    Business Task: To determine the differences in how annual members and casual riders use Cyclistic Bikes. Then to share this information with Lily Moreno, the Cyclistic marketing analytics team, as well as the Cyclistic Executive Team so that they can make an informed decision on how to market towards causal riders becoming annual members. 
+Business Task: To determine the differences in how annual members and casual riders use Cyclistic Bikes. Then to share this information with Lily Moreno, the Cyclistic marketing analytics team, as well as the Cyclistic Executive Team so that they can make an informed decision on how to market towards causal riders becoming annual members. 
 
 2. Prepare Phase
 
 Cyclistic Bikes is a similated company, for the purpose of this Case Study the data used was Divvy Bikes’s historical trip data to analyze and identify trends from the previous 12 months. The data was downloaded directly from the Divvy Bikes website (https://divvy-tripdata.s3.amazonaws.com/index.html) and assumed to be credible as it was compiled and published by Divvy Bikes.  The data was downloaded and unzipped by months and saved individually in a worksheet.
 
-    The data is licensed through Motivate International Inc. and is public data. https://ride.divvybikes.com/data-license-agreement
+The data is licensed through Motivate International Inc. and is public data. https://ride.divvybikes.com/data-license-agreement
 
 3. Process Phase
 
@@ -34,5 +34,3 @@ Visualizations were created using Tableau. Published here https://public.tableau
 6. Act Phase
 
 A powerpoint presentation was created -> Cyclistic - Annual Members vs Casual Riders.pptx.
-
-Google Analytics Capstone Project using Cyclistic (Divvy) bike data
